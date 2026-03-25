@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>My first website</title>
+</head>
+
+<body style="text-align: center;">
+    <h1>MY NAME IS AYEBAZIBWE PETER</h1>
+    <img src="peter.jpg" alt="MY IMAGE" width="200">
+    <p>
+        My registration number is 24/U/ITE/04062/PE.
+    </p>
+    <p> I am a student at Kyambogo university.</p>
+    <p>I am in my year two offering Bachelor of information technology and computing.</p>
+    <p> This is basically to showcase a few basics of html.</p>
+
+</body>
+
+
+</html>
