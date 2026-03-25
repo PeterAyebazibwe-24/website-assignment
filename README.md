@@ -1,2 +1,2 @@
-# course work 
+# website assignment
 Assignment on website design procedure
