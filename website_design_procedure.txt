@@ -1,0 +1,41 @@
+Procedure of Designing a Website
+
+ 1. Planning:
+Define Purpose: Identify the goal of the website (business, personal blog, e-commerce).
+Target Audience: Understand who will visit your website.
+Content Requirements: Decide what content you need, such as text, images, videos, or forms.
+Site Structure: Sketch a rough sitemap (Home → About → Services → Contact).
+
+2. Research and Inspiration
+Competitor Analysis: Look at similar websites to understand trends and features.
+Design Inspiration: Choose colors, fonts, layouts, and styles that fit your website’s theme.
+
+3. Wireframing / Mockups
+Wireframe: Create a simple sketch showing the layout of pages.
+Tools: Figma, Adobe XD, or even paper sketches.
+Purpose: Wireframes help visualize navigation and placement of elements before coding.
+
+4. Designing the Website
+Graphic Design: Create visuals, banners, logos, and other graphics.
+UI/UX Design: Focus on user experience—easy navigation, clear buttons, readable text.
+Responsive Design: Ensure the website works on mobile, tablet, and desktop.
+
+5. Development / Coding
+Front-End Development: HTML (structure), CSS (style), JavaScript (interactivity).
+Back-End Development (Optional): For dynamic sites, use PHP, Python, Node.js, or databases like MySQL.
+Frameworks / Libraries: Consider using React, Bootstrap, or Tailwind CSS to speed up development.
+
+6. Testing
+Functionality Testing: Check forms, buttons, links, and interactive features.
+Browser Compatibility: Ensure it works in Chrome, Firefox, Edge, Safari, etc.
+Responsive Testing: Check appearance on different devices.
+
+7. Deployment
+Choose Hosting: Free options: GitHub Pages, Netlify; Paid: Bluehost, HostGator.
+Upload Website: Push your code to a repository and enable Pages (if using GitHub).
+Domain (Optional): Purchase a custom domain or use GitHub’s default.
+
+8. Maintenance
+Regular Updates: Keep content fresh, update software/plugins.
+Bug Fixes: Monitor for errors and user feedback.
+Analytics: Track visitors to improve user experience.
