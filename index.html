@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bio Table - Ayebazibwe Peter</title>
+
+    <!-- ✅ Updated Font Awesome (fixes X icon) -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css">
+
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            border: 2px solid #333;
+            font-family: Arial, sans-serif;
+        }
+        th, td {
+            border: 1px solid #ccc;
+            padding: 12px;
+            vertical-align: top;
+        }
+        .section-label { width: 300px; font-weight: bold; }
+        .profile-icon { font-size: 3em; color: #007bff; margin-right: 15px; }
+        .main-info { display: flex; align-items: center; }
+        .header-cell { font-weight: bold; background-color: #f0f0f0; }
+
+        .social-links { margin-top: 15px; display: flex; gap: 15px; }
+        .social-links a { 
+            font-size: 1.5em; 
+            text-decoration: none; 
+            transition: transform 0.2s ease;
+        }
+        .social-links a:hover {
+            transform: scale(1.2);
+        }
+
+        .x-link { color: #000000; }
+        .fb-link { color: #1877F2; }
+        .wa-link { color: #25D366; }
+    </style>
+</head>
+<body>
+
+    <table>
+        <tbody>
+            <tr>
+                <td rowspan="2" class="section-label">
+                    <div class="main-info">
+                        <i class="fas fa-user-circle profile-icon"></i>
+                        <div>
+                            <p><strong>Name:</strong> Ayebazibwe Peter</p>
+                            <p><strong>Course:</strong> Information Technology and Computing</p>
+                            <p><strong>Year:</strong> 2026</p>
+                        </div>
+                    </div>
+                </td>
+                <td colspan="3">Background Information</td>
+                <td rowspan="3">
+                    <p><strong>Int + Hobbies:</strong></p>
+                    <ul>
+                        <li>Football</li>
+                        <li>Programming</li>
+                    </ul>
+                    
+                    <div class="social-links">
+                        <a href="https://x.com/" target="_blank" class="x-link" title="X">
+                            <i class="fa-brands fa-x-twitter"></i>
+                        </a>
+                        <a href="https://www.facebook.com/" target="_blank" class="fb-link" title="Facebook">
+                            <i class="fa-brands fa-facebook-f"></i>
+                        </a>
+                        <a href="https://wa.me/256XXXXXXXXX" target="_blank" class="wa-link" title="WhatsApp">
+                            <i class="fa-brands fa-whatsapp"></i>
+                        </a>
+                    </div>
+                </td>
+            </tr>
+
+            <tr>
+                <td class="header-cell">Year</td>
+                <td class="header-cell">School</td>
+                <td class="header-cell">Award</td>
+            </tr>
+            
+            <tr>
+                <td></td> 
+                <td>2023</td>
+                <td>St. Cyprian High School</td>
+                <td>UACE</td>
+            </tr>
+        </tbody>
+    </table>
+
+</body>
+</html>
